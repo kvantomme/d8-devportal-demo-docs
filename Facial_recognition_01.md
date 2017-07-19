@@ -43,3 +43,6 @@ The most popular approach is to use a linear SVM.
 Given a new face representation and a list of candidate identities, recognition will compare the face models of the identities with the new face representation and will generate a score for each one.
 The score if passing a certain threshold is an indication of a recognition.
 This is a fast operation, and depending on the size of the representation - recognition systems can obtain scores for millions of candidates per second.
+
+### Test addition
+does this work?
